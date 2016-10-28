@@ -1,0 +1,14 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x580EBC83)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Users\admin\Desktop\LAB_DAC\STM32L4_DAC_noise\STM32L4_Lab_Template_C\LED_C\RTE-ID:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-ID:\Setup\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L476xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (stm32l476xx.h)(0x55F6F0D5)
+I (D:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm4.h)(0x5735A3AE)
+I (D:\Setup\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E4C36)
+I (D:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57353CB6)
+I (D:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57353CB6)
+I (D:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57353CB6)
+I (D:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmsimd.h)(0x57353CB6)
+I (D:\Setup\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.2.0\Device\Include\system_stm32l4xx.h)(0x56D3AF2C)
+I (D:\Setup\Keil_v5\ARM\ARMCC\include\math.h)(0x574E4C36)
+F (.\startup_stm32l476xx.s)(0x563F80A3)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\admin\Desktop\LAB_DAC\STM32L4_DAC_noise\STM32L4_Lab_Template_C\LED_C\RTE-ID:\Setup\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-ID:\Setup\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.2.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32L476xx SETA 1"--list .\listings\startup_stm32l476xx.lst --xref -o .\objects\startup_stm32l476xx.o --depend .\objects\startup_stm32l476xx.d)
+F (.\stm32l476xx.h)(0x55F6F0D5)()
+F (.\Pin_Connection.txt)(0x568A93C8)()
